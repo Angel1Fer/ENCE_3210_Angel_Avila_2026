@@ -55,8 +55,8 @@ void setup(){
   attachInterrupt(digitalPinToInterrupt(button2Pin), button2Isr, FALLING);
 
   Serial.println("calculator ready:");
-  Serial.println("button1: press 1/2/3 times to pick add/sub/mul");
-  Serial.println("button2: press once to run the operation");
+  Serial.println("button1: press 1/2/3 times to pick add/subtract/multi");
+  Serial.println("button2: press once to run operation");
 }
 
 void loop(){
