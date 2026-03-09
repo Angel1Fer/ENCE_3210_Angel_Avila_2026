@@ -1,3 +1,6 @@
 # PCB Design (KiCAD)    
 This is only phase B of documentation, 
-therefore you will only find work related to the creation of PCB through KiCAD
+Here you can see the:  
+## Schematics 
+## PCB Layout  
+## 3D Rendering
