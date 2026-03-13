@@ -1,0 +1,28 @@
+Drill report for NASA_PCB.kicad_pcb
+Created on 2026-03-13T07:39:54-0600
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'NASA_PCB-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (6 holes)
+    T2  0.800mm  0.0315"  (14 holes)
+    T3  0.900mm  0.0354"  (11 holes)
+    T4  1.000mm  0.0394"  (21 holes)
+    T5  1.016mm  0.0400"  (44 holes)
+    T6  1.100mm  0.0433"  (3 holes)
+
+    Total plated holes count 99
+
+
+Drill file 'NASA_PCB-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3.200mm  0.1260"  (4 holes)
+
+    Total unplated holes count 4
